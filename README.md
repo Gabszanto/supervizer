@@ -1,5 +1,7 @@
 Supervizer ![Travis Status](https://travis-ci.org/oOthkOo/supervizer.png)
 ========================
+
+[![Join the chat at https://gitter.im/Gabszanto/supervizer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Gabszanto/supervizer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM](https://nodei.co/npm/supervizer.png?downloads=true)](https://nodei.co/npm/supervizer/)
 
 A NodeJS daemon process manager to spawn/start/stop node app .
